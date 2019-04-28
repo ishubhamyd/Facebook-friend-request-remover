@@ -1,5 +1,6 @@
 # facebook_bot_js
 This bot is Facebook friend request remover bot which is written in JavaScript.
+This is more like an automation and less than a bot. 
 
 Steps to run this bot:
 1. Open the target url. (for me it is facebook pending request page)
@@ -8,4 +9,4 @@ Steps to run this bot:
 4. Copy the code and paste it in console area.
 5. Make changes according to yourself and run the script.
 
-Note: To stop the script for executing just refresh the page. :p
+Note: To stop the script from executing just refresh the page. :p
